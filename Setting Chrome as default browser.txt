@@ -1,0 +1,13 @@
+Setting Chrome as default browser :==
+----------------------------------
+
+Extentions ==> Search ==> live server ==> Install ==> settings
+ ==> Extension settings ==>  OpenSettigs(JSON) ==> VSCode main Settings ==> type
+        "liveServer.settings.AdvanceCustomBrowserCmdLine": "chrome"
+
+
+--> Live Reload is not possible without body or head tag.
+
+
+
+
